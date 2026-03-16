@@ -22,10 +22,7 @@ export default function Hero() {
                 </div>
 
                 <div className="hero-card">
-                    <img
-                        src="/src/assets/images/hero.jpg"
-                        alt="Business portfolio hero"
-                    />
+                    <img src="/images/hero.jpg" alt="Business portfolio hero" />
                 </div>
             </div>
         </section>

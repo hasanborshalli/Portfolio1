@@ -26,10 +26,7 @@ export default function Home() {
                     </div>
 
                     <div className="about-preview-image">
-                        <img
-                            src="/src/assets/images/about.jpg"
-                            alt="About business"
-                        />
+                        <img src="/images/hero2.jpg" alt="About business" />
                     </div>
                 </div>
             </section>
